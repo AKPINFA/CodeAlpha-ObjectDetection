@@ -74,7 +74,7 @@ Git and GitHub for version control and project hosting.
 
 
 
-\## Project Structure
+ Project Structure
 
 
 
@@ -168,7 +168,7 @@ pip install -r requirements.txt
 
 
 
-\## Usage
+Usage
 
 
 
