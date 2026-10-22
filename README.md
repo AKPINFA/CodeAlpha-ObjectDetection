@@ -1,8 +1,8 @@
-\# Object Detection and Tracking Using YOLO11
+ Object Detection and Tracking Using YOLO11
 
 
 
-\## Project Overview
+ Project Overview
 
 
 
@@ -14,7 +14,7 @@ The project was developed as part of the CodeAlpha Internship Program to gain pr
 
 
 
-\## Objectives
+ Objectives
 
 
 
@@ -26,7 +26,7 @@ The project also aims to explore object detection models, video processing, and 
 
 
 
-\## Features
+ Features
 
 
 
@@ -50,7 +50,7 @@ Modular Python scripts for testing, detection, and tracking.
 
 
 
-\## Technologies Used
+ Technologies Used
 
 
 
@@ -98,7 +98,7 @@ CodeAlpha-ObjectDetection/
 
 
 
-\## Requirements
+ Requirements
 
 
 
@@ -114,7 +114,7 @@ Pip for Python package management.
 
 
 
-\## Installation
+ Installation
 
 
 
@@ -212,7 +212,7 @@ Make sure your webcam is connected and available before running the scripts.
 
 
 
-\## Model
+ Model
 
 
 
@@ -220,7 +220,7 @@ The project uses the YOLO11 Nano model, provided in the `yolo11n.pt` file. This 
 
 
 
-\## Learning Outcomes
+ Learning Outcomes
 
 
 
@@ -228,7 +228,7 @@ This project provides practical experience with real time video processing, obje
 
 
 
-\## Internship
+ Internship
 
 
 
@@ -236,11 +236,11 @@ Developed as part of the CodeAlpha Internship Program.
 
 
 
-\## Author
+ Author
 
 
 
-AKPINFA
+
 
 
 
